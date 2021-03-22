@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Adam-Winter
+- 👀 I’m interested in anything programming or math related :)
+- 🌱 I’m currently learning web development
+- 📫 How to reach me: adam@nehme.fr
